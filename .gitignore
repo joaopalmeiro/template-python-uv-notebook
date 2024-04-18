@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+.ipynb_checkpoints/
+
+# https://docs.astral.sh/ruff/settings/#cache-dir
+.ruff_cache/
+
+# https://github.com/jupyterlab/jupyterlab/blob/v4.1.6/galata/test/galata/filebrowser.spec.ts#L6
+# https://github.com/jupyterlab/jupyterlab/blob/v4.1.6/packages/services/src/testutils.ts#L73
+# https://github.com/jupyterlab/jupyterlab/blob/v4.1.6/examples/filebrowser/src/index.ts#L330
+Untitled*.ipynb
